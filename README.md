@@ -17,7 +17,7 @@
 ## 安装
 
 1.  [安装 Tampermonkey](https://www.tampermonkey.net/)或 [安装 Violentmonkey](https://violentmonkey.github.io/)。
-2. 点击 [安装`CHUSYXKhelper-request-keepalive-hedge.user.js`](CHUSYXKhelper-request-keepalive-hedge.user.js)，在弹出的安装页面中点击“安装”即可。
+2. 点击 [安装`CHUSYXKhelper-request-keepalive-hedge.user.js`](https://github.com/RinnMoe/CHUSYXKhelper/blob/main/CHUSYXKhelper-request-keepalive-hedge.user.js)，在弹出的安装页面中点击“安装”即可。
 3. 刷新选课页面。右下角出现气泡消息提示说明脚本已经生效。
 
 ---
